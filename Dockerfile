@@ -1,4 +1,4 @@
-FROM chetan1111/botasaurus:latest
+FROM sNICkerssss/google_maps_scraper_omkarcloud:latest
 
 ENV PYTHONUNBUFFERED=1
 
